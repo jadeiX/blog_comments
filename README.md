@@ -1,2 +1,2 @@
-# blog_comments
-blog comments repository
+# Blog comments
+## blog comments repository
