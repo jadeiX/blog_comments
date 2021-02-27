@@ -1,2 +1,2 @@
 # Blog comments
-## blog comments repository
+## The repository contains blog comments for my personal webside and additional material
